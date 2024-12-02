@@ -3,7 +3,7 @@ html, body {
   margin: 0; }
 body{
   background-color:#9eb1be;
-  font-family:"Comfortaa";
+  font-family:"Comic Sans MS";
   font-size: 25px;
   color: #524E4E;
   display: flex;
@@ -36,6 +36,7 @@ footer{
   display: block;
   unicode-bidi: isolate;
   margin-top: auto;
+  font-size: 12pt;
 }
 
 h1{
